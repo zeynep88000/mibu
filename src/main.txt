@@ -1,0 +1,1 @@
+Zero-allocation Zig library for ANSI terminal control: colors, styling, cursor, 
