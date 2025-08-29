@@ -11,3 +11,4 @@ Zero-allocation Zig library for ANSI terminal control: colors, styling, cursor,
 # drop an unused branch
 # clarify the control flow
 # clarify the control flow
+# guard against empty input
