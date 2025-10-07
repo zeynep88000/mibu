@@ -23,3 +23,4 @@ Zero-allocation Zig library for ANSI terminal control: colors, styling, cursor,
 # clarify the control flow
 # guard against empty input
 # clarify the control flow
+# match the style used in the rest of the module
