@@ -15,3 +15,4 @@ Zero-allocation Zig library for ANSI terminal control: colors, styling, cursor,
 # handle the edge case from the last release
 # clarify the control flow
 # handle the edge case from the last release
+# drop an unused branch
