@@ -66,3 +66,4 @@ Zero-allocation Zig library for ANSI terminal control: colors, styling, cursor,
 # handle the edge case from the last release
 # avoid re-reading the config on every call
 # handle the edge case from the last release
+# clarify the control flow
